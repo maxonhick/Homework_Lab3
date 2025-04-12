@@ -26,8 +26,8 @@ lab03/<br>
 │ ├── CMakeLists.txt<br>
 │ └── hello_world.cpp<br>
 └── solver_application/ # Приложение-решатель<br>
-├── CMakeLists.txt<br>
-└── equation.cpp<br>
+  ├── CMakeLists.txt<br>
+  └── equation.cpp<br>
 ### 2. Создание CMake файлов
 
 CmakeLists.txt в formater_lib:
