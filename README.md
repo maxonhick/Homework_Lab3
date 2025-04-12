@@ -8,26 +8,26 @@
 ### 1. Подготовка проекта
 
 Создана структура проекта:
-lab03/
-├── CMakeLists.txt # Главный файл конфигурации
-├── formatter_lib/ # Библиотека formatter
-│ ├── CMakeLists.txt
-│ ├── formatter.h
-│ └── formatter.cpp
-├── formatter_ex_lib/ # Расширенная библиотека
-│ ├── CMakeLists.txt
-│ ├── formatter_ex.h
-│ └── formatter_ex.cpp
-├── solver_lib/ # Библиотека для решения уравнений
-│ ├── CMakeLists.txt
-│ ├── solver.h
-│ └── solver.cpp
-├── hello_world_application/ # Пример приложения
-│ ├── CMakeLists.txt
-│ └── hello_world.cpp
-└── solver_application/ # Приложение-решатель
-├── CMakeLists.txt
-└── equation.cpp
+lab03/<br>
+├── CMakeLists.txt # Главный файл конфигурации<br>
+├── formatter_lib/ # Библиотека formatter<br>
+│ ├── CMakeLists.txt<br>
+│ ├── formatter.h<br>
+│ └── formatter.cpp<br>
+├── formatter_ex_lib/ # Расширенная библиотека<br>
+│ ├── CMakeLists.txt<br>
+│ ├── formatter_ex.h<br>
+│ └── formatter_ex.cpp<br>
+├── solver_lib/ # Библиотека для решения уравнений<br>
+│ ├── CMakeLists.txt<br>
+│ ├── solver.h<br>
+│ └── solver.cpp<br>
+├── hello_world_application/ # Пример приложения<br>
+│ ├── CMakeLists.txt<br>
+│ └── hello_world.cpp<br>
+└── solver_application/ # Приложение-решатель<br>
+├── CMakeLists.txt<br>
+└── equation.cpp<br>
 ### 2. Создание CMake файлов
 
 CmakeLists.txt в formater_lib:
